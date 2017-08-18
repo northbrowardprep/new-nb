@@ -21,5 +21,5 @@ The NewNB Project is meant to replace it with a much better alternative, this ti
 Contribute to the project by suggesting edits to it.
 
 There are 2 ways you can do this:
-1. Email us at [northbrowardprep@protonmail.ch](mailto:northbrowardprep@protonmail.ch). Our inbox is fully encrypted, so your ideas are safe with us.
+1. Email us at [northbrowardprep@protonmail.ch](mailto:northbrowardprep@protonmail.ch). We will preserve your anonymity at all costs (our email inbox is also fully encrypted, so nobody except us can see it).
 2. Signup for a Github account and open an Issue (or, fork this repository, make edits and then make a pull request to merge it back). If you need help with this process, either Google it or email us at [northbrowardprep@protonmail.ch](mailto:northbrowardprep@protonmail.ch).
