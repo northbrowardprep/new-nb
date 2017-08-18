@@ -1,6 +1,7 @@
 # The New NBPS Student Government
 
 This is the NewNB Project; dedicated to replacing the currently broken Student Government with a community-driven alternative.
+Simply click on the text "New-NBSSG-Manifesto.md" to open and read the manifesto.
 
 ## What's the Point?
 
