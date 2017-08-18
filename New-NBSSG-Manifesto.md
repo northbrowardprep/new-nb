@@ -23,7 +23,7 @@ It is in the best interest of the School, and the students who attend it, that w
 * The **Class Officers are lazy** and will sometimes go weeks without doing anything related to the School or the Student Government.
 * *In other words*, **everything’s broken**.
 
-This proposal is split into two sections; one describing the Student Government’s faults, and one delineating a new Student Government free of the dysfunction and fault of the current Student Government.
+This proposal is split into two sections: one describing the Student Government’s faults, and one delineating a new Student Government free of the dysfunction and fault of the current Student Government.
 
 Please also note that all information in this proposal was written during the 2016-17 school year, and is  completely accurate in that year. If more recent information is found, it will be indicated that it is from a more recent time.
 
