@@ -72,28 +72,38 @@ This is only one example of the apathy demonstrated by the Class Officers (and, 
 Several times during the 2016-17 year, the Class Officers stated their interest in motivating the disinterested Student Legislators to write actual legislation instead of just passing Club Charters. Several bills were in the works, including a resolution meant to bring the dismal state of the Lakeside Hall bathrooms to light. Sadly, the only bill that ever made it in front of the Legislators was the Tremblay Charter Enforcement Act. The countless other bills were forgotten.
 
 ## The New North Broward Student Government
-Below, find the proposed new constitution of the North Broward Prep Student Government.
+## Below, find the proposed new constitution of the North Broward Prep Student Government.
 
 We the Students of North Broward, in order to form a more perfect self-governing body, express our will to the Administration and other superior entities, and take action to improve the general well-being, do ordain and establish this Constitution for the North Broward Preparatory School Student Government.
 
 ## Article. I.
 ### Section. 1.
-All legislative powers herein shall be vested in a Congress of North Broward, consisting of a Senate and House of Representatives (henceforth "the House").
+All legislative powers herein shall be vested in a Congress of North Broward, consisting of a Senate and House of Representatives.
 
 ### Section. 2.
 The House shall be composed of Representatives chosen every second Wednesday of September by the Students of the several Advisories. The Students of the Advisories will choose 1 (one) Representative to represent them in the House.
 
-The Representatives will meet once every 2 weeks, beginning on the
+The Representatives will meet once every 2 weeks, beginning one week after the Representatives are elected.
 
 ### Section. 3.
-The Senate shall be composed of Senators chosen every third Wednesday of September by the Students of the 4 (four) Grades. The Students of the Grades shall choose 5 (five) Senators to represent their Grade in the Senate.
+The Senate shall be composed of Senators chosen every third Wednesday of September by the Students of the 4 (four) Grades. The Students of the Grades shall choose 2 (two) Senators to represent their Grade in the Senate.
+
+The Senators will meet once every 2 weeks, beginning one week after the Senators are elected.
 
 ### Section. 4.
-The Representatives and Senators shall be Elected by an unbiased ballot administered by the Administration. Candidates shall be voted on using the [Alternative Vote](https://youtu.be/3Y3jE3B8HsE). 
+Candidates for Representative shall be elected on using the traditional system: the Candidate who amasses more than 50% of the vote is the decisive winner. Each Advisor will poll the Students of their Advisory in any manner they so please (given that their chosen method is free from bias), and they will report the results of their poll to the Student Government Advisors.
+
+Candidates for Senator shall be elected in
+
+A Special Election will occur when a Representative or Senator must be replaced.
+
+If a Represenatative is to be replaced, the Advisor of that Representative will conduct a poll of their Students as to who shall replace the Representative. This poll must follow the same stipulations as a standard Election, and its results must be reported to the Student Government Advisors.
+
+If a Senator is to be replaced, the Administration will conduct a ballot for their replacement within 2 (two) weeks. Those who desire the position will have 1 (one) week to declare candidacy, and the remaining time until the ballot to campaign.
 
 ### Section. 5.
-Students may apply for candidacy for either Representative or Senator, but not both. By declaring candidacy, the Student assures that they shall:
-* attend every meeting (with the exception of illness or physical injury preventing attendance),
+Students may apply for candidacy for either Representative or Senator, but not both. By declaring candidacy, the Student assures that they shall, if elected, 
+* attend every meeting (with the exception of an affliction preventing attendance),
 * honor the Honor Code,
 * obey the will of the Students whom they Represent, and
 * abide by this Constitution
