@@ -87,7 +87,7 @@ The Senators will meet once every 2 weeks, beginning one week after the Senators
 ### Section. 4.
 Candidates for Representative shall be elected on using the traditional system: the Candidate who amasses more than 50% of the vote is the decisive winner. Each Advisor will poll the Students of their Advisory in any manner they so please (given that their chosen method is free from bias), and they will report the results of their poll to the Student Government Advisors.
 
-Candidates for Senator shall be elected in
+Candidates for Senator shall be elected by a ballot administered by the Administration. The Students will choose 2 (two) Candidates on the ballot to cast their vote for. The 2 (two) Senators who amass the highest percentage of votes are the decisive winners.
 
 A Special Election will occur when a Representative or Senator must be replaced.
 
